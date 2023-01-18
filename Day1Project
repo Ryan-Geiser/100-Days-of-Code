@@ -1,0 +1,5 @@
+#Go to: https://replit.com/@appbrewery/band-name-generator-start?v=1
+print("Welcome to the Band Name Generator.")
+city = input("What's the name of the city you grew up in?\n")
+numbers = input("What's your favorite number?\n")
+print("Your band name could be The " + numbers + " " + city + "ites")
